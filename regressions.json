@@ -1,1 +1,1 @@
-{"regressions": []}
+{"regressions": [["simple_benchmarks.SimpleU3TimeSuite.time_simple_u3(Num. qubits: 15, No Noise)", "graphs/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E3-1270 v6 @ 3.80GHz/machine-baremetal01/num_cpu-8/os-Linux 4.15.0-50-generic/python-3.7/ram-16371228/simple_benchmarks.SimpleU3TimeSuite.time_simple_u3.json", {}, 8, 0.012413994409143925, 0.011037152507924475, [[null, 608, 0.011037152507924475, 0.012413994409143925]]]]}
